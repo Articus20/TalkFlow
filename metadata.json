@@ -1,0 +1,6 @@
+{
+  "name": "TalkFlow",
+  "description": "AI conversational voice coach designed to eliminate language anxiety through real-time adaptive speaking practice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
